@@ -1,1 +1,2 @@
 Pozdrav iz drugog fajla!
+123
